@@ -4,6 +4,18 @@ CBStoreHouseRefreshControl ![License MIT](https://go-shields.herokuapp.com/licen
 ![Version](http://cocoapod-badges.herokuapp.com/v/CBStoreHouseRefreshControl/badge.png)
 ![Platform](http://cocoapod-badges.herokuapp.com/p/CBStoreHouseRefreshControl/badge.png)
 
+备注
+---
+plist文件
+
+startPoints({0,0})  endPoints({50，0})
+
+画一条直线，起点0.0，终点50.0
+
+`左上角为原始坐标`
+
+
+
 What is it?
 ---
 
